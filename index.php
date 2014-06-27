@@ -17,8 +17,8 @@
 
 <div class="container">
 	<div class="jumbotron">
-		<h1>Hello World</h1>
-		<p>Just for Fun!!!</p>
+		<h1>Xia Zhang</h1>
+		<p>This is project 1!!!</p>
 	</div>
 
 
