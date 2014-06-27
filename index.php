@@ -6,6 +6,7 @@
 <meta name="description" content="Project 1: A simple introduction">
 <meta name="author" content="Xia Zhang">
 <link rel="stylesheet" type="text/css" href="bootstrap-3.1.1-dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/p1.css">
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"
     type="text/javascript"></script>
