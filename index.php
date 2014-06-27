@@ -53,9 +53,11 @@
 
 	</div>
 </div>
+
+<div class="footer">
+	<p>© Xia Zhang</p>
+</div>
+
 </div> <!-- container -->
-
-</div> 
-
 </body>
 </html>
